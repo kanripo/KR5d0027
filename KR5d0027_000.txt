@@ -1,0 +1,7 @@
+# -*- mode: mandoku-view; -*-
+#+DATE: 2015-08-29 00:59:39.702870
+#+TITLE: 周易參同契
+#+PROPERTY: DZID  DZ1008
+#+PROPERTY: SOURCE  正統道藏，三家本，1988，20—297 三卷 太玄部
+#+PROPERTY: BASEEDITION HFL
+#+PROPERTY: WITNESS HFL
